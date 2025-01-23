@@ -10,13 +10,13 @@ head:
 
 # Installing boot9strap (super-skaterhax)
 
-:::details Technical Details (optional)
+:::details Perincian Teknis (opsional)
 
 For technical details on the exploits that you will be using on this page, see [here](https://github.com/zoogie/super-skaterhax).
 
 :::
 
-### Compatibility Notes
+### Catatan Kompatibilitas
 
 Super-skaterhax (when used to launch the Homebrew Launcher) is compatible with New models on version 11.15.0 and above in all regions.
 
@@ -26,17 +26,17 @@ The instructions provided only apply to the New 3DS, New 3DS XL, and New 2DS XL.
 
 :::
 
-### What You Need
+### Apa yang Perlu
 
 - The [Super-skaterhax](https://skater.nintendohomebrew.com) zip for your console's region and system version
 
-#### Section I - Prep Work
+#### Bagian I - Persiapan
 
 In this section, you will copy the files needed to trigger both super-skaterhax and the Homebrew Launcher.
 
-1. Power off your console
+1. Matikan daya konsol
 
-2. Insert your SD card into your computer
+2. Sisipkan kartu SD ke komputer Anda
 
 3. Copy everything from the Super-skaterhax `.zip` to the root of your SD card, overwriting any existing files
 
@@ -46,9 +46,9 @@ In this section, you will copy the files needed to trigger both super-skaterhax 
 
    :::
 
-4. Reinsert your SD card into your console
+4. Sisip kembali kartu SD ke konsol
 
-5. Power on your console
+5. Nyalakan daya konsol
 
 6. Launch System Settings
 
@@ -95,27 +95,27 @@ If you haven't already, make sure you have a working Internet connection set up 
    - If your (Start) button does not respond, tap the 3-line menu on the bottom-right corner of the screen
 10. Tap on "Settings"
 11. Tap on "Delete Cookies"
-12. Press (A) to continue
+12. Tekan (A) untuk lanjut
 13. Press (Home) to return to the HOME Menu, then immediately press (A) to launch the browser again
 14. Select the "GO GO!" button on the top of the bottom screen
 15. Press (A) to dismiss the [popup](/images/screenshots/skaterhax/skater-popup.png)
-    - If your console freezes on a yellow screen, hold the POWER button until it turns off, then retry this section
-    - If your console freezes on a red screen, hold the POWER button until it turns off, redo step 3 of Section II, then retry this section
+    - Jika konsolnya macet di layar kuning, tahan tombol POWER sampai daya mati, lalu coba lagi bagian ini
+    - Jika konsolnya macet di layar merah, tahan tombol POWER sampai daya mati, ulangi Langkah 3 Bagian II, lalu coba lagi bagian ini
     - If your console [shows the word Text on the top-left corner of the bottom screen](/images/screenshots/skaterhax/skater-old3ds.png), you have an Old 3DS and this exploit **will not work on your device**. If this is the case, you should follow [MSET9](installing-boot9strap-\(mset9\)) instead
     - If you get another error, try again up to 5 times, and if it still doesn't work, [follow this troubleshooting guide](troubleshooting-super-skaterhax)
 16. Your console will have booted into the Homebrew Launcher
 17. Launch nimdsphax from the list of homebrew
-18. If the exploit was successful, you will have booted into SafeB9SInstaller
-    - If your console freezes on a red or green screen, hold the POWER button until it turns off, then retry this section
+18. Jika eksploit berhasil akan muncul SafeB9SInstaller
+    - Jika konsolnya macet di layar merah atau hijau, tahan tombol POWER sampai daya mati, lalu coba lagi bagian ini
     - This may take up to five attempts
 
-#### Section III - Installing boot9strap
+#### Bagian III - Memasang boot9strap
 
-In this section, you will install custom firmware onto your console.
+Di bagian ini akan mulai memasang _custom firmware_ ke konsol.
 
-1. When prompted, input the key combo given on the top screen to install boot9strap
+1. Saat diminta, tekan kombo tombol mengikuti layar atas untuk memasang boot9strap
    - If a step on the lower screen has red-colored text, and you are not prompted to input a key combo, [follow this troubleshooting guide](troubleshooting-super-skaterhax)
-2. Once it is complete, press (A) to reboot your console
+2. Saat selesai, tekan (A) untuk nyalakan ulang konsol
 
 <!--@include: ./_include/configure-luma3ds.md -->
 
@@ -131,6 +131,6 @@ You may now restore your region settings back to normal.
 
 ::: tip
 
-Continue to [Finalizing Setup](finalizing-setup)
+Lanjut ke [Penyiapan Akhir](finalizing-setup)
 
 :::
